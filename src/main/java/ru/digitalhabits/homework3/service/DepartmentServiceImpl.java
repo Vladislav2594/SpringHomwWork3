@@ -54,6 +54,7 @@ public class DepartmentServiceImpl
         throw new NotImplementedException();
     }
 
+
     @Override
     @Transactional
     public void close(int id) {
